@@ -1,5 +1,5 @@
  { "title" : "New update available", 
 "message" : "- fixed some bugs\n- New Update Version(2.0)",
  "versionCode" : 2, 
-"force" : false,
+"force" : true,
  "link" : "https://drive.google.com/uc?export=download&id=1rwbZ4DK2fDEwP1AULSNmEqgyT6dxgf0U" } 
