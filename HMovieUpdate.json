@@ -1,5 +1,5 @@
  { "title" : "New update available", 
 "message" : "- fixed some bugs\n- New Update Version(2.0)\n- New added Video Downloader",
- "versionCode" : 2, 
+ "versionCode" : 1, 
 "force" : true,
  "link" : "https://www.mediafire.com/download/4zwmf3gtd5xdwdv" } 
